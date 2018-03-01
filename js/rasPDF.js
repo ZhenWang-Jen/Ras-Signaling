@@ -369,7 +369,7 @@ function canvasClick(e) {
 	    	// 允许结点拖拽
 	    	isDragging = true;
 
-url = nodesArray[i].url;
+url = nodesArray[i].url; // this is a global variable that is used in jquery.msgbox.js
 $.msgbox({
 	type: 'iframe',
 	id: nodesArray[i].key,
