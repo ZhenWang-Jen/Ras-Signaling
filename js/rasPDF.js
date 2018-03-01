@@ -1,6 +1,6 @@
- "use strict;"
+"use strict;"
 
- // 获取已存json结点数据以及画布
+// 获取已存json结点数据以及画布
 var nodesArray    = JSON.parse(nodes);
 var linksArray    = JSON.parse(links);
 var colorsArray   = JSON.parse(colors);
@@ -372,6 +372,7 @@ function canvasClick(e) {
 url = nodesArray[i].url;
 $.msgbox({
 	type: 'iframe',
+	id: nodesArray[i].key,
 	title: 'Node: ' + nodesArray[i].text,
 	overlay: false,
 	icons: ['min', 'max', 'close']
