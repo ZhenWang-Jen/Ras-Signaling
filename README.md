@@ -6,12 +6,14 @@
 ## A preview version can be checked out here: https://zhenwang-jen.github.io/Ras-Signaling/Ras%20Signaling.html
 
 ### Situation (S): 
-At Mayo Clinic's Health Sciences Research lab in Scottasdale, a gradute student works on this Ras-Signaling project as described above. He isn't familiar with web design so he isn't able to develop a website with his academic paper for publications. 
+At Mayo Clinic's Health Sciences Research lab in Scottasdale, a gradute student wants a website to display his Ras-Signaling project for academic publications. But he is not able to do so because of unfamiliarity with web design. 
 ### Task (T): 
-My goal was to help the project publication by creating an interactive website of Ras-Signaling with draggable, clickable functionalities and so on. 
-##### The goal of this project is to convert an existing pdf into an interactive websites with dragable and clickable noeds, various types of links and other functionalities.
- so researchers/pubilshers can easily navigate the project instead of
-Action (A): I designed a new promotional packet to go with the rate sheet and compared the
+My goal is to create an interactive website of Ras Signaling that would help the project publication by saving researchers/pubilshers' time to navigate the project instead of reading through the long paper. 
+### Action (A): 
+
+# The goal of this project is to convert an existing pdf into an interactive websites with dragable and clickable noeds, various types of links and other functionalities.
+ so 
+I designed a new promotional packet to go with the rate sheet and compared the
 benefits of The Review circulation with other ad media in the area. I also set-up a special training
 session for the account executives with a School of Business Administration professor who
 discussed competitive selling strategies.
