@@ -10,10 +10,12 @@ At Mayo Clinic's Health Sciences Research lab in Scottasdale, a gradute student 
 ### Task (T): 
 My goal is to create an interactive website of Ras Signaling that would help the project publication by saving researchers/pubilshers' time to navigate the project instead of reading through the long paper. 
 ### Action (A): 
+I design a new web page to by studying online libraries for web design, such as GOJS, a JavaScript library for implementing custom interactive diagrams and data visualizations (ref. https://gojs.net/latest/index.html). However, it doesn't work well for this project because it requires high-level customization. 
+
 
 # The goal of this project is to convert an existing pdf into an interactive websites with dragable and clickable noeds, various types of links and other functionalities.
  so 
-I designed a new promotional packet to go with the rate sheet and compared the
+a new promotional packet to go with the rate sheet and compared the
 benefits of The Review circulation with other ad media in the area. I also set-up a special training
 session for the account executives with a School of Business Administration professor who
 discussed competitive selling strategies.
