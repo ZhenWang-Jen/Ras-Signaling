@@ -10,14 +10,9 @@ At Mayo Clinic's Health Sciences Research lab in Scottasdale, a gradute student 
 ### Task (T): 
 My goal is to create an interactive website of Ras Signaling that would help the project publication by saving researchers/pubilshers' time to navigate the project instead of reading through the long paper. 
 ### Action (A): 
-I design a new web page to by studying online libraries for web design, such as GOJS, a JavaScript library for implementing custom interactive diagrams and data visualizations (ref. https://gojs.net/latest/index.html). However, it doesn't work well for this project because it requires high-level customization. 
-
+I design a new web page to by studying online libraries for web design, such as GOJS, a JavaScript library for implementing custom interactive diagrams and data visualizations (ref. https://gojs.net/latest/index.html). However, it doesn't work well for this project because it requires high-level customization. So I choose to write pure JavaScript code to define various links and nodes. Also, I use PhotoShop to move the links explanation to the top so it shows details by hovering mouse. I update the project once the graduate student has updated data/requirements. To make it easy for the gradute student, I use NodeJS to convert the shared Excel sheets data into JSON data so he can focus on spreadsheets without worring about web design.  
+### Result (R):
 
 # The goal of this project is to convert an existing pdf into an interactive websites with dragable and clickable noeds, various types of links and other functionalities.
- so 
-a new promotional packet to go with the rate sheet and compared the
-benefits of The Review circulation with other ad media in the area. I also set-up a special training
-session for the account executives with a School of Business Administration professor who
-discussed competitive selling strategies.
-Result (R): We signed contracts with 15 former advertisers for daily ads and five for special
+ We signed contracts with 15 former advertisers for daily ads and five for special
 supplements. We increased our new advertisers by 20 percent over the same period last year. 
