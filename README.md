@@ -14,3 +14,10 @@ I designed a new web page to present the pdf by studying online libraries for we
 Also, I tried to improve user experience using my own judegement. I moved the links explanation on the pdf to the top of the navbar using PhotoShop, so it showed details when readers hovering mouses on it. Further, I committed project updates once the graduate student had updated data/requirements. To make it easy for him, I used [Node.js](https://nodejs.org/en/) to convert the Excel sheets data into JSON data so he could focus on spreadsheets without understanding UI development.  
 ### Result (R):
 This website helped to faster the paper review process a lot. And the graduate student and lab leaders were satisfied with my work as it was an innovative way to display complex biomedical projects with dragable and clickable noeds, various types of links and other functionalities. 
+
+## Ref links:
+
+#### [贝塞尔曲线学习](https://www.jianshu.com/p/5982e2322f3b)
+#### [贝塞尔曲线开发的艺术](https://www.jianshu.com/p/55c721887568)
+#### [贝塞尔曲线原理介绍及基础使用](https://double0291.github.io/2015/10/09/bezierBase)
+#### [使用quadraticCurveTo绘制二次贝赛尔曲线](https://blessdyb.iteye.com/blog/1403052)
